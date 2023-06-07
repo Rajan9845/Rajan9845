@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajan9845
 - 👀 I’m interested in cloud computing and other various IT roles and services
-- 🌱 I’m currently learning Btech degree in electronics and communication 
+- 🌱 I have graduated in Btech degree in electronics and communication 
 - 📫 How to reach me- rajansharma9845@gmail.com
 
 <!---
